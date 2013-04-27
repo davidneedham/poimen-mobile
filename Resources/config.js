@@ -6,7 +6,7 @@
 
 // Set this to the base path of your rest server (add trailing slash)
 
-var REST_PATH = 'http://localhost/poimen/api/rest/';
-var SITE_PATH = 'http://localhost/poimen/';
+var REST_PATH = 'http://poimen.enjoycreativity.com/api/rest/';
+var SITE_PATH = 'http://poimen.enjoycreativity.com/poimen/';
 
 // Android should be 10.0.2.2;
